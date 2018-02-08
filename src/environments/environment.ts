@@ -4,5 +4,14 @@
 // The list of which env maps to which file can be found in `.angular-cli.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  // MOSHES
+  // firebase: {
+  //   apiKey: 'AIzaSyAduqkAphREauzd_JVQMmrry2QCceDsEq4',
+  //   authDomain: 'bmc-poland.firebaseapp.com',
+  //   databaseURL: 'https://bmc-poland.firebaseio.com',
+  //   projectId: 'bmc-poland',
+  //   storageBucket: 'bmc-poland.appspot.com',
+  //   messagingSenderId: '410874607402'
+  // }
 };
